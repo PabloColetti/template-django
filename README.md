@@ -18,3 +18,8 @@ python -m venv nombre_entorno
 ```
 pip install -r requeriments.txt
 ```
+
+### Run Django Server
+```
+python manage.py runserver
+```
